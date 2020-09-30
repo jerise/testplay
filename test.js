@@ -93,4 +93,4 @@ client.on('message', message => {
       
 
 
-client.login("NzU0NzM1Njg2MzE3NTA2NTkw.X15EYQ.M_ZAOeEtUSjilLwDPVZkvyMw3gg");
+client.login("NzU0NzM1Njg2MzE3NTA2NTkw.X15EYQ.rAQN7chKJP8d19WFwPDiANtf_5c");
